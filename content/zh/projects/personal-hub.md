@@ -1,0 +1,31 @@
+---
+title: "Personal Hub"
+slug: "personal-hub"
+summary: "一个以自我介绍为核心的多语言静态个人站，强调温和、清晰和内容驱动。"
+year: 2026
+stack:
+  - "Nuxt 3"
+  - "Markdown"
+  - "GitHub Pages"
+featured: true
+status: "In Progress"
+links:
+  - label: "Repository"
+    href: "https://github.com/yourname/personal-site"
+---
+
+## 背景
+
+这个项目的出发点不是搭一个传统作品集，而是解决一个更具体的问题：大多数个人站要么太像求职模板，要么太像项目陈列墙。
+
+## 问题
+
+如果首页信息过多，会显得像在推销自己；如果表达过于轻飘，又缺少可信度。需要在“有人味”和“够专业”之间找到稳定平衡。
+
+## 方案
+
+整体采用结构化个人主页：左侧用插画头像和 quick facts 建立识别，右侧用短文案解释你的关注点和网站内容。项目与文章退到第二层，作为补充证据而不是主角。
+
+## 结果
+
+最终形成一个更适合长期维护的内容型站点骨架：既能对外作为个人名片，也能随着项目和文章增长持续扩展，而不会破坏首页叙事。
