@@ -12,8 +12,8 @@ const isEnglish = computed(() => route.path === '/en' || route.path.startsWith('
             {{ isEnglish ? 'Built as a calm, content-first personal site.' : '一个克制、内容优先的个人站点。' }}
           </div>
           <div class="site-footer__links">
-            <a href="https://github.com/yourname" target="_blank" rel="noreferrer">GitHub</a>
-            <a href="mailto:you@example.com">Email</a>
+            <a href="https://github.com/luabugsss" target="_blank" rel="noreferrer">GitHub</a>
+            <a href="mailto:1149036090@qq.com">Email</a>
           </div>
         </div>
       </div>

@@ -24,7 +24,7 @@ if (!resume.value) {
 
       <template #aside>
         <div class="eyebrow">Profile</div>
-        <h2 class="section-title" style="font-size: 30px;">Your Name</h2>
+        <h2 class="section-title" style="font-size: 30px;">JUNYU LU</h2>
         <p class="section-copy">{{ resume.subtitle }}</p>
         <div class="tag-list" style="margin-top: 18px;">
           <span v-for="tag in resume.profileTags" :key="tag" class="pill">{{ tag }}</span>

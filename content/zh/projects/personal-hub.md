@@ -9,9 +9,7 @@ stack:
   - "GitHub Pages"
 featured: true
 status: "In Progress"
-links:
-  - label: "Repository"
-    href: "https://github.com/yourname/personal-site"
+links: []
 ---
 
 ## 背景

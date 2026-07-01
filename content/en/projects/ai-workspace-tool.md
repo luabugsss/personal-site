@@ -9,9 +9,7 @@ stack:
   - "Tooling"
 featured: true
 status: "Concept"
-links:
-  - label: "Overview"
-    href: "https://example.com"
+links: []
 ---
 
 ## Background

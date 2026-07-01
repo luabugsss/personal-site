@@ -29,7 +29,7 @@ if (!project.value) {
         </div>
       </div>
 
-      <div class="sidebar__block">
+      <div v-if="project.links?.length" class="sidebar__block">
         <div class="eyebrow">Links</div>
         <div class="grid-list" style="margin-top: 12px;">
           <a

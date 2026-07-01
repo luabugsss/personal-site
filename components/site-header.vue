@@ -35,7 +35,7 @@ function isActive(path: string) {
   <header class="site-topbar">
     <div class="container site-topbar__inner">
       <NuxtLink class="site-brand" :to="locale === 'en' ? '/en' : '/'">
-        YOUR NAME
+        {{ locale === 'en' ? 'JUNYU LU' : '卢俊宇' }}
       </NuxtLink>
 
       <nav class="site-nav">
