@@ -1,0 +1,25 @@
+{
+  "name": "personal-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "test": "vitest run",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "fast-glob": "^3.3.3",
+    "gray-matter": "^4.0.3",
+    "markdown-it": "^14.1.0",
+    "nuxt": "^3.20.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "c12": "^2.0.1",
+    "typescript": "^5.7.2",
+    "vitest": "^3.0.5"
+  }
+}
